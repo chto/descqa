@@ -1,0 +1,20 @@
+#LRG based on https://desi.lbl.gov/trac/attachment/wiki/TargetSelectionWG/LRGretuning/nz.lrg2.joint.txt/n#Converted by assuming flat cosmology and omegam=0.3#
+# z N/dAdz(1/deg^2)
+0.3250 45.06
+0.3750 383.12
+0.4250 547.96
+0.4750 572.04
+0.5250 584.31
+0.5750 714.18
+0.6250 1082.66
+0.6750 946.97
+0.7250 1043.59
+0.7750 772.85
+0.8250 522.87
+0.8750 342.78
+0.9250 237.84
+0.9750 195.76
+1.0250 111.64
+1.0750 54.85
+1.1250 24.47
+1.1750 16.21

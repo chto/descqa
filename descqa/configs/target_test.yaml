@@ -1,0 +1,4 @@
+subclass_name: target_test.Targettest
+description: chtotest
+included_by_default: true
+observation: 'DESI_TG'
